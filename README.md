@@ -6,7 +6,7 @@
 - Since the scope of offensive playing style of a Center Back is majorly limited to attacking buildup, we only concentrate on the passing style of left vs right footed Left Center Backs. <br>
 
 ## Download Data
-The entire [Data](https://drive.google.com/drive/folders/1cp88C71CKapTq6quW3iEsBpck32SrGq6?usp=sharing) for all the code notebooks is already formatted and organised in seperate sub-folders for direct use. Simply download the data from the link mentioned previously and make sure to keep the `code` and `data` folder in the same directory. <br>
+The entire [Data](https://drive.google.com/drive/folders/1uk9jFdjHnN0BZOjbXeB4eidDlwacuTG0?usp=sharing) for all the code notebooks is already formatted and organised in seperate sub-folders for direct use. Simply download the data from the link mentioned previously and make sure to keep the `code` and `data` folder in the same directory. <br>
 
 ## Overview of the Data Pre-Processing
 Notebooks 1, 2 and 3 deal with the Data Preparation and Processing <br>
