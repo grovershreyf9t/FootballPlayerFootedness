@@ -1,4 +1,4 @@
-# FootballPlayerFootedness
+# Analysing the offensive playing style of a defender based on defender's preferred foot
 ## About
 - This repository aims to analyse the role of footedness on the playing style of a defender in a game of football.<br>
 - The effect of the dominant foot of a player goes hand in hand with the position they play in and thus comparisons are drawn between left footed and right footed Left Center Backs. <br>
