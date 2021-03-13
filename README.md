@@ -18,7 +18,7 @@ Notebooks 1, 2 and 3 deal with the Data Preparation and Processing <br>
 - Notebooks 4 to 9 deal with the analysis and visualizations to compare the passing behaviour between left and right Footed LCBs in three, four and five at the back formations. All of these comparisons have been generalised and tested for their statistical significance using the Z-Test for proportions. <br>
 - These notebooks take into consideration - accurate and inaccurate - short, aerial, long and progressive passes. <br> 
 - In order to quantify the value addition of these passes, the [`socceraction`](https://github.com/ML-KULeuven/socceraction) package's VAEP framework has been used. <br>
-- Notebooks 8 and 9 analyse and visualize the LCBs using their passing metrics computed for the 17-18 P.L. Season.
+- Notebooks 8 and 9 analyse and visualize the LCBs using their passing metrics.
 
 ## Future Work
 - Clustering defenders at each position using multiple passing metrics to provide insight into similarities and differences in playing style of defenders.
